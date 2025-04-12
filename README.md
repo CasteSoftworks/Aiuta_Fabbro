@@ -16,7 +16,7 @@ Ad ogni misurazione manda su un piccolo web-server le informazioni di:
 
 Il sistema è basato su una board ESP32.
 
-**Link a repo:** 
+**Link a repo:** https://github.com/CasteSoftworks/Aiuta_Fabbro
 
 **Licenza scelta:** MIT License  
 

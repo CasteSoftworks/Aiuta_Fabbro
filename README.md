@@ -6,7 +6,7 @@
 
 Utilizza una termocoppia tipo K per misurare la temperatura, visualizzando i dati su uno schermo OLED e accendendo LED per indicare le diverse fasi (freddo, lavorazione, tempra) in base alla temperatura.  
 Le fasi dipendono dal metalloo scelto tramite un'encoder rotativo.  
-In caso di fase di lavorazioenun modulo audio segna le martellate date fino alla misurazioen successiva.
+In caso di fase di lavorazione un modulo audio segna le martellate date fino alla misurazioen successiva.
 
 Ad ogni misurazione manda su un piccolo web-server le informazioni di:  
 * data e ora

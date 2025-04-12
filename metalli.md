@@ -19,4 +19,6 @@
     * temprabile da 800°C a 840°C in olio
     * lavorabile da 950°C a 1250°C
 * 80CrV2 - Acciaio al carbonio 0.80% C, 0.5% Cr, 0.2% V
+    * temprabile da 800°C a 850°C in olio
+    * lavorabile da 900°C a 1200°C
 * Acciaio sconosciuto -  usa una media delle temperature precedenti per decidere le tre fasi

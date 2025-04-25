@@ -1,4 +1,4 @@
-int pinA=A0;
+int pinD=5;
 
 void setup() {
   Serial.begin(115200);
